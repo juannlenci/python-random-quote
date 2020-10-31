@@ -1,5 +1,5 @@
 def primary():
-  print("Speak like a human")
+  print("Speak like a human.")
 
   #f = open("quotes.txt")
   #quotes = f.readlines()
